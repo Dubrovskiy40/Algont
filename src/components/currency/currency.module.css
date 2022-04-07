@@ -1,0 +1,16 @@
+.currency {
+    border: 1px solid #CDCDCD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.currency__textFieldCastom {
+    margin-top: 20px;
+}
+
+.currency__span_wrap {
+     margin-top: 20px;
+ }

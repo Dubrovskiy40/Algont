@@ -1,0 +1,19 @@
+.currencyConverter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.currencyConverter__title {
+     margin-bottom: 20px;
+}
+
+.currencyConverter__btn {
+     height: 50px;
+     align-self: center;
+}
+
+.currency__block {
+    display: flex;
+}

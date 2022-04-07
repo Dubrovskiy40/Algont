@@ -1,0 +1,1 @@
+export const CHANGE_AMOUNT = 'CHANGE_AMOUNT';

@@ -1,0 +1,1 @@
+export const SET_FIRST_CURRENCY = 'SET_FIRST_CURRENCY';
